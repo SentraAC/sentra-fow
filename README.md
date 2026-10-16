@@ -15,7 +15,7 @@ client — making wallhack cheats see nothing but empty streets.
 
 <br />
 
-[![Watch the demo](https://img.youtube.com/vi/DnDXMf_0X1o/maxresdefault.jpg)](https://www.youtube.com/watch?v=DnDXMf_0X1o)
+[![Watch the demo](https://img.youtube.com/vi/NR1apzmGe8A/maxresdefault.jpg)](https://www.youtube.com/watch?v=NR1apzmGe8A)
 
 </div>
 
